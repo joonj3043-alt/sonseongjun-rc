@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# 도메인 연결 후 sitemap.xml 주소를 추가하세요.
